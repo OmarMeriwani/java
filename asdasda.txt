@@ -1,0 +1,8 @@
+Context switching
+Thread definition
+Thread calling methods in C#:
+- Prameterized
+- Shared variable
+- Simple thread
+- Running in background
+using  lambda expression
